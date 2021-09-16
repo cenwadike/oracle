@@ -20,9 +20,11 @@
     "next": "11.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "save-dev": "^0.0.1-security",
     "web3modal": "^1.9.4"
   },
   "devDependencies": {
+    "dotenv": "^10.0.0",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2",
     "hardhat": "^2.6.4"

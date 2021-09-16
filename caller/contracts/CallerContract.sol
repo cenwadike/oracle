@@ -3,7 +3,7 @@ pragma solidity ^0.8.0;
 
 import "hardhat/console.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
-import "./../contracts/Interfaces/PriceOracleInterface.sol";
+import "./../Interfaces/PriceOracleInterface.sol";
 
 contract CallerContract is Ownable {
 
